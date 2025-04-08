@@ -1,2 +1,2 @@
-# dl-projectts
+# dl-project
 capstone 1
